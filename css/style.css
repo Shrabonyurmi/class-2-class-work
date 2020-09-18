@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+}
+
+section{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    padding: 10px;
+}
+.box{
+    width: 33.33%;
+    float: left;
+    padding: 15px;
+    box-sizing: border-box;
+}
+p{
+    color: #fff;
+    font-size: 20px;
+    margin: 0;
+}
+.pink{
+    background-color: #e8cacf;
+    padding: 20px;
+}.bisque {
+    background-color: #aed3ea;
+    padding: 20px;
+}
+.green{
+       background-color: #abe8ab;
+       padding: 20px;
+}
+
+
